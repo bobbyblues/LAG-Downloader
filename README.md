@@ -25,8 +25,8 @@ You can also download in a batch using the second script:
 
 Of course this script is very simple and can definitively improved. I just wanted to save the whole story in case of the website going down, so I made this to help me. If you have any improvement, don't hesitate to share and I'll update the script.
 
- Version française
- =================
+Version française
+=================
 
 Ces scripts sont fait pour télécharger facilement les épisode des autres gens (www.lesautresgens.com)
 
