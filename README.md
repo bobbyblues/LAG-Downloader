@@ -3,6 +3,8 @@ LAG-Downloader
 
 Version française plus bas.
 
+This sript DOES NOT allows illegal download of Les Autres Gens, if you don't have legal access to the episodes, you won't be able to download them!
+
 English version
 ===============
 
@@ -29,6 +31,8 @@ Version française
 =================
 
 Ces scripts sont fait pour télécharger facilement les épisode des autres gens (www.lesautresgens.com)
+
+En aucun cas il ne permet un téléchargement illégal des épisode. Un abonnement est nécessaire, et sans celui-ci vous ne pourrez pas télécharger les épisodes.
 
 Pour les utiliser:
  - Vous avez besoin d'un compte sur le site www.lesautresgens.com pour avoir accès aux épisodes complets
