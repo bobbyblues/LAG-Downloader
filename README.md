@@ -3,7 +3,7 @@ LAG-Downloader
 
 Version française plus bas.
 
-This sript DOES NOT allows illegal download of Les Autres Gens, if you don't have legal access to the episodes, you won't be able to download them!
+This sript DOES NOT allow illegal download of Les Autres Gens, if you don't have legal access to the episodes, you won't be able to download them!
 
 English version
 ===============
