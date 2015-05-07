@@ -1,6 +1,14 @@
 LAG-Downloader
 ==============
 
+This project is not up-to-date. You can find a way better downloading script from my other repo:
+
+https://github.com/bobbyblues/webcomics-gatherer
+
+Previous documentation
+===============
+
+
 Version française plus bas.
 
 This sript DOES NOT allow illegal download of Les Autres Gens, if you don't have legal access to the episodes, you won't be able to download them!
@@ -46,5 +54,6 @@ Le second script permet de télécharger plusieurs épisodes à la fois:
  - Lancez 'python getAllHtml.py'
 
 Ces scripts sont très basiques et sûrement améliorables. J'avais envie de sauvegarder l'integralité de l'histoire au cas où le site web ne serait plus accessible, donc j'ai créé ces scripts pour me simplifier la tâche. Je les poste ici dans le cas où d'autres personnes voudraient faire de même.
+
 
 
